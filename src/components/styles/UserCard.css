@@ -23,7 +23,7 @@
 .card__footer-name {
   text-align: center;
   margin-top: 1em;
-  color: var(--paragraph-color);
+  color: var(--text-color);
 }
 .card__footer-list {
   display: flex;
@@ -49,7 +49,7 @@
 }
 
 .card__value {
-  color: var(--paragraph-color);
+  color: var(--text-color);
   width: 200px;
   text-align: end;
   overflow: auto;

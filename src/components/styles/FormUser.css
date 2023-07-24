@@ -56,7 +56,7 @@
   font-size: 0.9rem;
   font-weight: 400;
   margin-left: 1em;
-  color: var(--paragraph-color);
+  color: var(--text-color);
 }
 
 .formUser__input {
@@ -74,7 +74,7 @@
   font-size: 1rem;
   font-weight: 500;
   background-color: var(--paragraph-color);
-  color: var(--card-color);
+  color: var(--text-color-btn);
   border-radius: 0 1em 0 1em;
   margin: 2em 0 3em;
   position: relative;
